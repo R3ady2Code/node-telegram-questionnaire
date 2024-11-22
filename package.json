@@ -1,0 +1,14 @@
+{
+  "name": "questionnaire",
+  "version": "1.0.0",
+  "description": "Дополение к библиотеке node-telegram-bot-api для построение опросников в Телеграм ботах",
+  "main": "Questionnaire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.7.0"
+  }
+}

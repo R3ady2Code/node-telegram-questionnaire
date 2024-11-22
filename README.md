@@ -17,8 +17,8 @@ Questionnaire — это класс для бота, построенного н
 
 1. **Склонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/R3ady2Code/node-telegram-questionnaire)
+   cd node-telegram-questionnaire
 2. **Установите зависимости:**
    ```bash
    npm install

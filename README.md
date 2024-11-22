@@ -59,5 +59,5 @@ const screens = [
 const questionnaire = new Questionnaire(bot, screens);
 
 // Запуск опроса
-questionnaire.start(12345);
+questionnaire.start();
   
